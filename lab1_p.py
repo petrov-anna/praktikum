@@ -1,3 +1,6 @@
+##############################
+# Тут мы создали новую ветку #
+##############################
 name = input("Enter your name, please\n")
 print("Hello, " + name)
 age = int(input("Enter your age, please\n"))
